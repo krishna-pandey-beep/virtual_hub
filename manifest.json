@@ -12,4 +12,5 @@
         "default_icon": "icon16.png",
         "default_popup": "vh.html"
       }
+    "permissions":["storage","notifications","contextMenus"],
 }
